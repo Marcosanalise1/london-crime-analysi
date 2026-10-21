@@ -56,7 +56,5 @@ Antes da etapa de visualização, foram executadas queries SQL para auditoria da
 
 ```text
 ├── README.md                           <-- Documentação do projeto
-├── dashboard_crimes_londres.pbix       <-- Arquivo do Power BI
-├── relatorio_crimes_londres.pdf        <-- Versão em PDF do Dashboard
-└── scripts/
-    └── conexao_bigquery_london_crime.py <-- Script Python/SQL de conexão e validação
+├── Tarefa EBAC crimes Londres.pbix      <-- Arquivo do Power BI
+├── Tarefa EBAC crimes Londres.pdf        <-- Versão em PDF do Dashboard
